@@ -1,401 +1,401 @@
-sample.id	project	Species_coral	Genotype	Timepoint	Group	Treatment	Trt_time	T0_merge	Description	species_time	species_time_wT0		TR	TR2	project_trt_time	days_from_start
-OF3-71-T0-C	KMD	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	KMD_Control_T0	0
-OF3-72-T0-C	KMD	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	KMD_Control_T0	0
-OF3-73-T0-C	KMD	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	KMD_Control_T0	0
-OF3-74-T0-C	KMD	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	KMD_Control_T0	0
-OF3-75-T0-C	KMD	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	KMD_Control_T0	0
-OF3-76-T1-C	KMD	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	KMD_Control_T1	1
-OF3-77-T1-C	KMD	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	KMD_Control_T1	1
-OF3-78-T1-C	KMD	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	KMD_Control_T1	1
-OF3-79-T1-C	KMD	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	KMD_Control_T1	1
-OF3-80-T1-C	KMD	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	KMD_Control_T1	1
-OF3-81-T2-C	KMD	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	KMD_Control_T2	12
-OF3-82-T2-C	KMD	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	KMD_Control_T2	12
-OF3-83-T2-C	KMD	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	KMD_Control_T2	12
-OF3-84-T2-C	KMD	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	KMD_Control_T2	12
-OF3-85-T2-C	KMD	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	KMD_Control_T2	12
-OF3-86-T3-C	KMD	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	KMD_Control_T3	40
-OF3-87-T3-C	KMD	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	KMD_Control_T3	40
-OF3-88-T3-C	KMD	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	KMD_Control_T3	40
-OF3-89-T3-C	KMD	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	KMD_Control_T3	40
-OF3-90-T3-C	KMD	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	KMD_Control_T3	40
-OF3-91-T4-C	KMD	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	KMD_Control_T4	68
-OF3-92-T4-C	KMD	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	KMD_Control_T4	68
-OF3-93-T4-C	KMD	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	KMD_Control_T4	68
-OF3-94-T4-C	KMD	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	KMD_Control_T4	68
-OF3-95-T4-C	KMD	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	KMD_Control_T4	68
-OF3-96-T0-K	KMD	OFAV	OF3	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-OF3-97-T0-K	KMD	OFAV	OF3	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-OF3-98-T0-K	KMD	OFAV	OF3	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-OF3-99-T0-K	KMD	OFAV	OF3	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-OF3-100-T0-K	KMD	OFAV	OF3	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-OF3-101-T1-K	KMD	OFAV	OF3	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-OF3-102-T1-K	KMD	OFAV	OF3	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-OF3-103-T1-K	KMD	OFAV	OF3	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-OF3-104-T1-K	KMD	OFAV	OF3	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-OF3-105-T1-K	KMD	OFAV	OF3	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-OF3-106-T2-K	KMD	OFAV	OF3	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-OF3-107-T2-K	KMD	OFAV	OF3	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-OF3-108-T2-K	KMD	OFAV	OF3	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-OF3-109-T2-K	KMD	OFAV	OF3	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-OF3-110-T2-K	KMD	OFAV	OF3	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-OF3-111-T3-K	KMD	OFAV	OF3	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-OF3-112-T3-K	KMD	OFAV	OF3	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-OF3-113-T3-K	KMD	OFAV	OF3	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-OF3-114-T3-K	KMD	OFAV	OF3	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-OF3-115-T3-K	KMD	OFAV	OF3	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-OF3-116-T4-K	KMD	OFAV	OF3	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-OF3-117-T4-K	KMD	OFAV	OF3	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-OF3-118-T4-K	KMD	OFAV	OF3	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-OF3-119-T4-K	KMD	OFAV	OF3	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-OF3-120-T4-K	KMD	OFAV	OF3	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-OF61-71-T0-C	KMD	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	KMD_Control_T0	0
-OF61-72-T0-C	KMD	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	KMD_Control_T0	0
-OF61-73-T0-C	KMD	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	KMD_Control_T0	0
-OF61-74-T0-C	KMD	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	KMD_Control_T0	0
-OF61-75-T0-C	KMD	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	KMD_Control_T0	0
-OF61-76-T1-C	KMD	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	KMD_Control_T1	1
-OF61-77-T1-C	KMD	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	KMD_Control_T1	1
-OF61-78-T1-C	KMD	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	KMD_Control_T1	1
-OF61-79-T1-C	KMD	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	KMD_Control_T1	1
-OF61-80-T1-C	KMD	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	KMD_Control_T1	1
-OF61-81-T2-C	KMD	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	KMD_Control_T2	12
-OF61-82-T2-C	KMD	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	KMD_Control_T2	12
-OF61-83-T2-C	KMD	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	KMD_Control_T2	12
-OF61-84-T2-C	KMD	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	KMD_Control_T2	12
-OF61-85-T2-C	KMD	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	KMD_Control_T2	12
-OF61-86-T3-C	KMD	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	KMD_Control_T3	40
-OF61-87-T3-C	KMD	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	KMD_Control_T3	40
-OF61-88-T3-C	KMD	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	KMD_Control_T3	40
-OF61-89-T3-C	KMD	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	KMD_Control_T3	40
-OF61-90-T3-C	KMD	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	KMD_Control_T3	40
-OF61-91-T4-C	KMD	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	KMD_Control_T4	68
-OF61-92-T4-C	KMD	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	KMD_Control_T4	68
-OF61-93-T4-C	KMD	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	KMD_Control_T4	68
-OF61-94-T4-C	KMD	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	KMD_Control_T4	68
-OF61-95-T4-C	KMD	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	KMD_Control_T4	68
-OF61-96-T0-K	KMD	OFAV	OF61	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-OF61-97-T0-K	KMD	OFAV	OF61	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-OF61-98-T0-K	KMD	OFAV	OF61	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-OF61-99-T0-K	KMD	OFAV	OF61	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-OF61-100-T0-K	KMD	OFAV	OF61	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-OF61-101-T1-K	KMD	OFAV	OF61	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-OF61-102-T1-K	KMD	OFAV	OF61	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-OF61-103-T1-K	KMD	OFAV	OF61	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-OF61-104-T1-K	KMD	OFAV	OF61	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-OF61-105-T1-K	KMD	OFAV	OF61	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-OF61-106-T2-K	KMD	OFAV	OF61	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-OF61-107-T2-K	KMD	OFAV	OF61	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-OF61-108-T2-K	KMD	OFAV	OF61	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-OF61-109-T2-K	KMD	OFAV	OF61	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-OF61-110-T2-K	KMD	OFAV	OF61	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-OF61-111-T3-K	KMD	OFAV	OF61	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-OF61-112-T3-K	KMD	OFAV	OF61	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-OF61-113-T3-K	KMD	OFAV	OF61	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-OF61-114-T3-K	KMD	OFAV	OF61	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-OF61-115-T3-K	KMD	OFAV	OF61	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-OF61-116-T4-K	KMD	OFAV	OF61	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-OF61-117-T4-K	KMD	OFAV	OF61	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-OF61-118-T4-K	KMD	OFAV	OF61	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-OF61-119-T4-K	KMD	OFAV	OF61	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-OF61-120-T4-K	KMD	OFAV	OF61	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-AP16-71-T0-C	KMD	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	KMD_Control_T0	0
-AP16-72-T0-C	KMD	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	KMD_Control_T0	0
-AP16-73-T0-C	KMD	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	KMD_Control_T0	0
-AP16-74-T0-C	KMD	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	KMD_Control_T0	0
-AP16-75-T0-C	KMD	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	KMD_Control_T0	0
-AP16-76-T1-C	KMD	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	KMD_Control_T1	1
-AP16-77-T1-C	KMD	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	KMD_Control_T1	1
-AP16-78-T1-C	KMD	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	KMD_Control_T1	1
-AP16-79-T1-C	KMD	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	KMD_Control_T1	1
-AP16-80-T1-C	KMD	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	KMD_Control_T1	1
-AP16-81-T2-C	KMD	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	KMD_Control_T2	12
-AP16-82-T2-C	KMD	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	KMD_Control_T2	12
-AP16-83-T2-C	KMD	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	KMD_Control_T2	12
-AP16-84-T2-C	KMD	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	KMD_Control_T2	12
-AP16-85-T2-C	KMD	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	KMD_Control_T2	12
-AP16-86-T3-C	KMD	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	KMD_Control_T3	40
-AP16-87-T3-C	KMD	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	KMD_Control_T3	40
-AP16-88-T3-C	KMD	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	KMD_Control_T3	40
-AP16-89-T3-C	KMD	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	KMD_Control_T3	40
-AP16-90-T3-C	KMD	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	KMD_Control_T3	40
-AP16-91-T4-C	KMD	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		None	None	KMD_Control_T4	68
-AP16-92-T4-C	KMD	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		None	None	KMD_Control_T4	68
-AP16-93-T4-C	KMD	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		None	None	KMD_Control_T4	68
-AP16-94-T4-C	KMD	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		None	None	KMD_Control_T4	68
-AP16-95-T4-C	KMD	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		None	None	KMD_Control_T4	68
-AP16-96-T0-K	KMD	APAL	AP16	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-AP16-97-T0-K	KMD	APAL	AP16	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-AP16-98-T0-K	KMD	APAL	AP16	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-AP16-99-T0-K	KMD	APAL	AP16	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-AP16-100-T0-K	KMD	APAL	AP16	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-AP16-101-T1-K	KMD	APAL	AP16	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-AP16-102-T1-K	KMD	APAL	AP16	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-AP16-103-T1-K	KMD	APAL	AP16	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-AP16-104-T1-K	KMD	APAL	AP16	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-AP16-105-T1-K	KMD	APAL	AP16	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-AP16-106-T2-K	KMD	APAL	AP16	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-AP16-107-T2-K	KMD	APAL	AP16	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-AP16-108-T2-K	KMD	APAL	AP16	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-AP16-109-T2-K	KMD	APAL	AP16	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-AP16-110-T2-K	KMD	APAL	AP16	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-AP16-111-T3-K	KMD	APAL	AP16	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-AP16-112-T3-K	KMD	APAL	AP16	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-AP16-113-T3-K	KMD	APAL	AP16	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-AP16-114-T3-K	KMD	APAL	AP16	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-AP16-115-T3-K	KMD	APAL	AP16	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-AP16-116-T4-K	KMD	APAL	AP16	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-AP16-117-T4-K	KMD	APAL	AP16	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-AP16-118-T4-K	KMD	APAL	AP16	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-AP16-119-T4-K	KMD	APAL	AP16	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-AP16-120-T4-K	KMD	APAL	AP16	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-AP5-71-T0-C	KMD	APAL	AP5	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	KMD_Control_T0	0
-AP5-72-T0-C	KMD	APAL	AP5	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	KMD_Control_T0	0
-AP5-73-T0-C	KMD	APAL	AP5	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	KMD_Control_T0	0
-AP5-74-T0-C	KMD	APAL	AP5	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	KMD_Control_T0	0
-AP5-75-T0-C	KMD	APAL	AP5	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	KMD_Control_T0	0
-AP5-76-T1-C	KMD	APAL	AP5	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	KMD_Control_T1	1
-AP5-77-T1-C	KMD	APAL	AP5	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	KMD_Control_T1	1
-AP5-78-T1-C	KMD	APAL	AP5	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	KMD_Control_T1	1
-AP5-79-T1-C	KMD	APAL	AP5	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	KMD_Control_T1	1
-AP5-80-T1-C	KMD	APAL	AP5	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	KMD_Control_T1	1
-AP5-81-T2-C	KMD	APAL	AP5	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	KMD_Control_T2	12
-AP5-82-T2-C	KMD	APAL	AP5	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	KMD_Control_T2	12
-AP5-83-T2-C	KMD	APAL	AP5	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	KMD_Control_T2	12
-AP5-84-T2-C	KMD	APAL	AP5	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	KMD_Control_T2	12
-AP5-85-T2-C	KMD	APAL	AP5	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	KMD_Control_T2	12
-AP5-86-T3-C	KMD	APAL	AP5	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	KMD_Control_T3	40
-AP5-87-T3-C	KMD	APAL	AP5	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	KMD_Control_T3	40
-AP5-88-T3-C	KMD	APAL	AP5	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	KMD_Control_T3	40
-AP5-89-T3-C	KMD	APAL	AP5	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	KMD_Control_T3	40
-AP5-90-T3-C	KMD	APAL	AP5	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	KMD_Control_T3	40
-AP5-91-T4-C	KMD	APAL	AP5	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		None	None	KMD_Control_T4	68
-AP5-92-T4-C	KMD	APAL	AP5	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		None	None	KMD_Control_T4	68
-AP5-93-T4-C	KMD	APAL	AP5	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		None	None	KMD_Control_T4	68
-AP5-94-T4-C	KMD	APAL	AP5	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		None	None	KMD_Control_T4	68
-AP5-95-T4-C	KMD	APAL	AP5	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		None	None	KMD_Control_T4	68
-AP5-96-T0-K	KMD	APAL	AP5	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-AP5-97-T0-K	KMD	APAL	AP5	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-AP5-98-T0-K	KMD	APAL	AP5	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-AP5-99-T0-K	KMD	APAL	AP5	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-AP5-100-T0-K	KMD	APAL	AP5	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0		None	None	KMD_KoralMD_T0	0
-AP5-101-T1-K	KMD	APAL	AP5	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-AP5-102-T1-K	KMD	APAL	AP5	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-AP5-103-T1-K	KMD	APAL	AP5	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-AP5-104-T1-K	KMD	APAL	AP5	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-AP5-105-T1-K	KMD	APAL	AP5	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1		None	None	KMD_KoralMD_T1	1
-AP5-106-T2-K	KMD	APAL	AP5	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-AP5-107-T2-K	KMD	APAL	AP5	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-AP5-108-T2-K	KMD	APAL	AP5	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-AP5-109-T2-K	KMD	APAL	AP5	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-AP5-110-T2-K	KMD	APAL	AP5	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2		None	None	KMD_KoralMD_T2	12
-AP5-111-T3-K	KMD	APAL	AP5	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-AP5-112-T3-K	KMD	APAL	AP5	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-AP5-113-T3-K	KMD	APAL	AP5	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-AP5-114-T3-K	KMD	APAL	AP5	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-AP5-115-T3-K	KMD	APAL	AP5	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3		None	None	KMD_KoralMD_T3	40
-AP5-116-T4-K	KMD	APAL	AP5	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-AP5-117-T4-K	KMD	APAL	AP5	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-AP5-118-T4-K	KMD	APAL	AP5	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-AP5-119-T4-K	KMD	APAL	AP5	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-AP5-120-T4-K	KMD	APAL	AP5	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4		None	None	KMD_KoralMD_T4	68
-OF3-1-T0-C	Lugol	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	Lugol_Control_T0	0
-OF3-2-T0-C	Lugol	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	Lugol_Control_T0	0
-OF3-3-T0-C	Lugol	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	Lugol_Control_T0	0
-OF3-4-T0-C	Lugol	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	Lugol_Control_T0	0
-OF3-5-T0-C	Lugol	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	Lugol_Control_T0	0
-OF3-6-T1-C	Lugol	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	Lugol_Control_T1	1
-OF3-7-T1-C	Lugol	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	Lugol_Control_T1	1
-OF3-8-T1-C	Lugol	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	Lugol_Control_T1	1
-OF3-9-T1-C	Lugol	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	Lugol_Control_T1	1
-OF3-10-T1-C	Lugol	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	Lugol_Control_T1	1
-OF3-11-T2-C	Lugol	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	Lugol_Control_T2	12
-OF3-12-T2-C	Lugol	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	Lugol_Control_T2	12
-OF3-13-T2-C	Lugol	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	Lugol_Control_T2	12
-OF3-14-T2-C	Lugol	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	Lugol_Control_T2	12
-OF3-15-T2-C	Lugol	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	Lugol_Control_T2	12
-OF3-16-T3-C	Lugol	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	Lugol_Control_T3	40
-OF3-17-T3-C	Lugol	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	Lugol_Control_T3	40
-OF3-18-T3-C	Lugol	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	Lugol_Control_T3	40
-OF3-19-T3-C	Lugol	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	Lugol_Control_T3	40
-OF3-20-T3-C	Lugol	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	Lugol_Control_T3	40
-OF3-21-T4-C	Lugol	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	Lugol_Control_T4	68
-OF3-22-T4-C	Lugol	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	Lugol_Control_T4	68
-OF3-23-T4-C	Lugol	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	Lugol_Control_T4	68
-OF3-24-T4-C	Lugol	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	Lugol_Control_T4	68
-OF3-25-T4-C	Lugol	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	Lugol_Control_T4	68
-OF3-26-T0-L	Lugol	OFAV	OF3	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0		None	None	Lugol_Lugol_T0	0
-OF3-27-T0-L	Lugol	OFAV	OF3	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0		None	None	Lugol_Lugol_T0	0
-OF3-28-T0-L	Lugol	OFAV	OF3	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0		None	None	Lugol_Lugol_T0	0
-OF3-29-T0-L	Lugol	OFAV	OF3	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0		None	None	Lugol_Lugol_T0	0
-OF3-30-T0-L	Lugol	OFAV	OF3	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0		None	None	Lugol_Lugol_T0	0
-OF3-31-T1-L	Lugol	OFAV	OF3	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1		None	None	Lugol_Lugol_T1	1
-OF3-32-T1-L	Lugol	OFAV	OF3	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1		None	None	Lugol_Lugol_T1	1
-OF3-33-T1-L	Lugol	OFAV	OF3	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1		None	None	Lugol_Lugol_T1	1
-OF3-34-T1-L	Lugol	OFAV	OF3	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1		None	None	Lugol_Lugol_T1	1
-OF3-35-T1-L	Lugol	OFAV	OF3	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1		None	None	Lugol_Lugol_T1	1
-OF3-36-T2-L	Lugol	OFAV	OF3	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2		None	None	Lugol_Lugol_T2	12
-OF3-37-T2-L	Lugol	OFAV	OF3	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2		None	None	Lugol_Lugol_T2	12
-OF3-38-T2-L	Lugol	OFAV	OF3	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2		None	None	Lugol_Lugol_T2	12
-OF3-39-T2-L	Lugol	OFAV	OF3	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2		None	None	Lugol_Lugol_T2	12
-OF3-40-T2-L	Lugol	OFAV	OF3	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2		None	None	Lugol_Lugol_T2	12
-OF3-41-T3-L	Lugol	OFAV	OF3	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3		None	None	Lugol_Lugol_T3	40
-OF3-42-T3-L	Lugol	OFAV	OF3	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3		None	None	Lugol_Lugol_T3	40
-OF3-43-T3-L	Lugol	OFAV	OF3	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3		None	None	Lugol_Lugol_T3	40
-OF3-44-T3-L	Lugol	OFAV	OF3	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3		None	None	Lugol_Lugol_T3	40
-OF3-45-T3-L	Lugol	OFAV	OF3	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3		None	None	Lugol_Lugol_T3	40
-OF3-46-T4-L	Lugol	OFAV	OF3	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4		None	None	Lugol_Lugol_T4	68
-OF3-47-T4-L	Lugol	OFAV	OF3	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4		None	None	Lugol_Lugol_T4	68
-OF3-48-T4-L	Lugol	OFAV	OF3	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4		None	None	Lugol_Lugol_T4	68
-OF3-49-T4-L	Lugol	OFAV	OF3	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4		None	None	Lugol_Lugol_T4	68
-OF3-50-T4-L	Lugol	OFAV	OF3	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4		None	None	Lugol_Lugol_T4	68
-OF61-1-T0-C	Lugol	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	Lugol_Control_T0	0
-OF61-2-T0-C	Lugol	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	Lugol_Control_T0	0
-OF61-3-T0-C	Lugol	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	Lugol_Control_T0	0
-OF61-4-T0-C	Lugol	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	Lugol_Control_T0	0
-OF61-5-T0-C	Lugol	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0		None	None	Lugol_Control_T0	0
-OF61-6-T1-C	Lugol	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	Lugol_Control_T1	1
-OF61-7-T1-C	Lugol	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	Lugol_Control_T1	1
-OF61-8-T1-C	Lugol	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	Lugol_Control_T1	1
-OF61-9-T1-C	Lugol	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	Lugol_Control_T1	1
-OF61-10-T1-C	Lugol	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1		None	None	Lugol_Control_T1	1
-OF61-11-T2-C	Lugol	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	Lugol_Control_T2	12
-OF61-12-T2-C	Lugol	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	Lugol_Control_T2	12
-OF61-13-T2-C	Lugol	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	Lugol_Control_T2	12
-OF61-14-T2-C	Lugol	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	Lugol_Control_T2	12
-OF61-15-T2-C	Lugol	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2		None	None	Lugol_Control_T2	12
-OF61-16-T3-C	Lugol	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	Lugol_Control_T3	40
-OF61-17-T3-C	Lugol	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	Lugol_Control_T3	40
-OF61-18-T3-C	Lugol	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	Lugol_Control_T3	40
-OF61-19-T3-C	Lugol	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	Lugol_Control_T3	40
-OF61-20-T3-C	Lugol	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3		None	None	Lugol_Control_T3	40
-OF61-21-T4-C	Lugol	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	Lugol_Control_T4	68
-OF61-22-T4-C	Lugol	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	Lugol_Control_T4	68
-OF61-23-T4-C	Lugol	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	Lugol_Control_T4	68
-OF61-24-T4-C	Lugol	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	Lugol_Control_T4	68
-OF61-25-T4-C	Lugol	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4		None	None	Lugol_Control_T4	68
-OF61-26-T0-L	Lugol	OFAV	OF61	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0		None	None	Lugol_Lugol_T0	0
-OF61-27-T0-L	Lugol	OFAV	OF61	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0		None	None	Lugol_Lugol_T0	0
-OF61-28-T0-L	Lugol	OFAV	OF61	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0		None	None	Lugol_Lugol_T0	0
-OF61-29-T0-L	Lugol	OFAV	OF61	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0		None	None	Lugol_Lugol_T0	0
-OF61-30-T0-L	Lugol	OFAV	OF61	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0		None	None	Lugol_Lugol_T0	0
-OF61-31-T1-L	Lugol	OFAV	OF61	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1		None	None	Lugol_Lugol_T1	1
-OF61-32-T1-L	Lugol	OFAV	OF61	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1		None	None	Lugol_Lugol_T1	1
-OF61-33-T1-L	Lugol	OFAV	OF61	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1		None	None	Lugol_Lugol_T1	1
-OF61-34-T1-L	Lugol	OFAV	OF61	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1		None	None	Lugol_Lugol_T1	1
-OF61-35-T1-L	Lugol	OFAV	OF61	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1		None	None	Lugol_Lugol_T1	1
-OF61-36-T2-L	Lugol	OFAV	OF61	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2		None	None	Lugol_Lugol_T2	12
-OF61-37-T2-L	Lugol	OFAV	OF61	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2		None	None	Lugol_Lugol_T2	12
-OF61-38-T2-L	Lugol	OFAV	OF61	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2		None	None	Lugol_Lugol_T2	12
-OF61-39-T2-L	Lugol	OFAV	OF61	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2		None	None	Lugol_Lugol_T2	12
-OF61-40-T2-L	Lugol	OFAV	OF61	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2		None	None	Lugol_Lugol_T2	12
-OF61-41-T3-L	Lugol	OFAV	OF61	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3		None	None	Lugol_Lugol_T3	40
-OF61-42-T3-L	Lugol	OFAV	OF61	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3		None	None	Lugol_Lugol_T3	40
-OF61-43-T3-L	Lugol	OFAV	OF61	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3		None	None	Lugol_Lugol_T3	40
-OF61-44-T3-L	Lugol	OFAV	OF61	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3		None	None	Lugol_Lugol_T3	40
-OF61-45-T3-L	Lugol	OFAV	OF61	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3		None	None	Lugol_Lugol_T3	40
-OF61-46-T4-L	Lugol	OFAV	OF61	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4		None	None	Lugol_Lugol_T4	68
-OF61-47-T4-L	Lugol	OFAV	OF61	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4		None	None	Lugol_Lugol_T4	68
-OF61-48-T4-L	Lugol	OFAV	OF61	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4		None	None	Lugol_Lugol_T4	68
-OF61-49-T4-L	Lugol	OFAV	OF61	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4		None	None	Lugol_Lugol_T4	68
-OF61-50-T4-L	Lugol	OFAV	OF61	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4		None	None	Lugol_Lugol_T4	68
-AP16-1-T0-C	Lugol	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	Lugol_Control_T0	0
-AP16-2-T0-C	Lugol	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	Lugol_Control_T0	0
-AP16-3-T0-C	Lugol	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	Lugol_Control_T0	0
-AP16-4-T0-C	Lugol	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	Lugol_Control_T0	0
-AP16-5-T0-C	Lugol	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	Lugol_Control_T0	0
-AP16-6-T1-C	Lugol	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	Lugol_Control_T1	1
-AP16-7-T1-C	Lugol	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	Lugol_Control_T1	1
-AP16-8-T1-C	Lugol	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	Lugol_Control_T1	1
-AP16-9-T1-C	Lugol	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	Lugol_Control_T1	1
-AP16-10-T1-C	Lugol	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	Lugol_Control_T1	1
-AP16-11-T2-C	Lugol	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	Lugol_Control_T2	12
-AP16-12-T2-C	Lugol	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	Lugol_Control_T2	12
-AP16-13-T2-C	Lugol	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	Lugol_Control_T2	12
-AP16-14-T2-C	Lugol	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	Lugol_Control_T2	12
-AP16-15-T2-C	Lugol	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	Lugol_Control_T2	12
-AP16-16-T3-C	Lugol	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	Lugol_Control_T3	40
-AP16-17-T3-C	Lugol	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	Lugol_Control_T3	40
-AP16-18-T3-C	Lugol	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	Lugol_Control_T3	40
-AP16-19-T3-C	Lugol	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	Lugol_Control_T3	40
-AP16-20-T3-C	Lugol	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	Lugol_Control_T3	40
-AP16-21-T4-C	Lugol	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		mild	TR	Lugol_Control_T4	68
-AP16-22-T4-C	Lugol	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		TR	TR	Lugol_Control_T4	68
-AP16-23-T4-C	Lugol	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		TR	TR	Lugol_Control_T4	68
-AP16-24-T4-C	Lugol	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		TR	TR	Lugol_Control_T4	68
-AP16-25-T4-C	Lugol	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		TR	TR	Lugol_Control_T4	68
-AP16-26-T0-L	Lugol	APAL	AP16	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0		None	None	Lugol_Lugol_T0	0
-AP16-27-T0-L	Lugol	APAL	AP16	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0		None	None	Lugol_Lugol_T0	0
-AP16-28-T0-L	Lugol	APAL	AP16	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0		None	None	Lugol_Lugol_T0	0
-AP16-29-T0-L	Lugol	APAL	AP16	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0		None	None	Lugol_Lugol_T0	0
-AP16-30-T0-L	Lugol	APAL	AP16	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0		None	None	Lugol_Lugol_T0	0
-AP16-31-T1-L	Lugol	APAL	AP16	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1		None	None	Lugol_Lugol_T1	1
-AP16-32-T1-L	Lugol	APAL	AP16	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1		None	None	Lugol_Lugol_T1	1
-AP16-33-T1-L	Lugol	APAL	AP16	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1		None	None	Lugol_Lugol_T1	1
-AP16-34-T1-L	Lugol	APAL	AP16	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1		None	None	Lugol_Lugol_T1	1
-AP16-35-T1-L	Lugol	APAL	AP16	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1		None	None	Lugol_Lugol_T1	1
-AP16-36-T2-L	Lugol	APAL	AP16	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2		None	None	Lugol_Lugol_T2	12
-AP16-37-T2-L	Lugol	APAL	AP16	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2		None	None	Lugol_Lugol_T2	12
-AP16-38-T2-L	Lugol	APAL	AP16	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2		None	None	Lugol_Lugol_T2	12
-AP16-39-T2-L	Lugol	APAL	AP16	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2		None	None	Lugol_Lugol_T2	12
-AP16-40-T2-L	Lugol	APAL	AP16	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2		None	None	Lugol_Lugol_T2	12
-AP16-41-T3-L	Lugol	APAL	AP16	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3		None	None	Lugol_Lugol_T3	40
-AP16-42-T3-L	Lugol	APAL	AP16	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3		None	None	Lugol_Lugol_T3	40
-AP16-43-T3-L	Lugol	APAL	AP16	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3		None	None	Lugol_Lugol_T3	40
-AP16-44-T3-L	Lugol	APAL	AP16	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3		None	None	Lugol_Lugol_T3	40
-AP16-45-T3-L	Lugol	APAL	AP16	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3		None	None	Lugol_Lugol_T3	40
-AP16-46-T4-L	Lugol	APAL	AP16	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4		TR	TR	Lugol_Lugol_T4	68
-AP16-47-T4-L	Lugol	APAL	AP16	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4		TR	TR	Lugol_Lugol_T4	68
-AP16-48-T4-L	Lugol	APAL	AP16	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4		TR	TR	Lugol_Lugol_T4	68
-AP16-49-T4-L	Lugol	APAL	AP16	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4		TR	TR	Lugol_Lugol_T4	68
-AP16-50-T4-L	Lugol	APAL	AP16	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4		mild	TR	Lugol_Lugol_T4	68
-AP20-1-T0-C	Lugol	APAL	AP20	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	Lugol_Control_T0	0
-AP20-2-T0-C	Lugol	APAL	AP20	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	Lugol_Control_T0	0
-AP20-3-T0-C	Lugol	APAL	AP20	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	Lugol_Control_T0	0
-AP20-4-T0-C	Lugol	APAL	AP20	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	Lugol_Control_T0	0
-AP20-5-T0-C	Lugol	APAL	AP20	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0		None	None	Lugol_Control_T0	0
-AP20-6-T1-C	Lugol	APAL	AP20	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	Lugol_Control_T1	1
-AP20-7-T1-C	Lugol	APAL	AP20	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	Lugol_Control_T1	1
-AP20-8-T1-C	Lugol	APAL	AP20	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	Lugol_Control_T1	1
-AP20-9-T1-C	Lugol	APAL	AP20	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	Lugol_Control_T1	1
-AP20-10-T1-C	Lugol	APAL	AP20	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1		None	None	Lugol_Control_T1	1
-AP20-11-T2-C	Lugol	APAL	AP20	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	Lugol_Control_T2	12
-AP20-12-T2-C	Lugol	APAL	AP20	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	Lugol_Control_T2	12
-AP20-13-T2-C	Lugol	APAL	AP20	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	Lugol_Control_T2	12
-AP20-14-T2-C	Lugol	APAL	AP20	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	Lugol_Control_T2	12
-AP20-15-T2-C	Lugol	APAL	AP20	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2		None	None	Lugol_Control_T2	12
-AP20-16-T3-C	Lugol	APAL	AP20	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	Lugol_Control_T3	40
-AP20-17-T3-C	Lugol	APAL	AP20	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	Lugol_Control_T3	40
-AP20-18-T3-C	Lugol	APAL	AP20	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	Lugol_Control_T3	40
-AP20-19-T3-C	Lugol	APAL	AP20	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	Lugol_Control_T3	40
-AP20-20-T3-C	Lugol	APAL	AP20	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3		None	None	Lugol_Control_T3	40
-AP20-21-T4-C	Lugol	APAL	AP20	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		mild	TR	Lugol_Control_T4	68
-AP20-22-T4-C	Lugol	APAL	AP20	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		None	None	Lugol_Control_T4	68
-AP20-23-T4-C	Lugol	APAL	AP20	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		None	None	Lugol_Control_T4	68
-AP20-24-T4-C	Lugol	APAL	AP20	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		mild	TR	Lugol_Control_T4	68
-AP20-25-T4-C	Lugol	APAL	AP20	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4		None	None	Lugol_Control_T4	68
-AP20-26-T0-L	Lugol	APAL	AP20	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0		None	None	Lugol_Lugol_T0	0
-AP20-27-T0-L	Lugol	APAL	AP20	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0		None	None	Lugol_Lugol_T0	0
-AP20-28-T0-L	Lugol	APAL	AP20	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0		None	None	Lugol_Lugol_T0	0
-AP20-29-T0-L	Lugol	APAL	AP20	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0		None	None	Lugol_Lugol_T0	0
-AP20-30-T0-L	Lugol	APAL	AP20	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0		None	None	Lugol_Lugol_T0	0
-AP20-31-T1-L	Lugol	APAL	AP20	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1		None	None	Lugol_Lugol_T1	1
-AP20-32-T1-L	Lugol	APAL	AP20	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1		None	None	Lugol_Lugol_T1	1
-AP20-33-T1-L	Lugol	APAL	AP20	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1		None	None	Lugol_Lugol_T1	1
-AP20-34-T1-L	Lugol	APAL	AP20	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1		None	None	Lugol_Lugol_T1	1
-AP20-35-T1-L	Lugol	APAL	AP20	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1		None	None	Lugol_Lugol_T1	1
-AP20-36-T2-L	Lugol	APAL	AP20	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2		None	None	Lugol_Lugol_T2	12
-AP20-37-T2-L	Lugol	APAL	AP20	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2		None	None	Lugol_Lugol_T2	12
-AP20-38-T2-L	Lugol	APAL	AP20	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2		None	None	Lugol_Lugol_T2	12
-AP20-39-T2-L	Lugol	APAL	AP20	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2		None	None	Lugol_Lugol_T2	12
-AP20-40-T2-L	Lugol	APAL	AP20	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2		None	None	Lugol_Lugol_T2	12
-AP20-41-T3-L	Lugol	APAL	AP20	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3		None	None	Lugol_Lugol_T3	40
-AP20-42-T3-L	Lugol	APAL	AP20	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3		None	None	Lugol_Lugol_T3	40
-AP20-43-T3-L	Lugol	APAL	AP20	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3		None	None	Lugol_Lugol_T3	40
-AP20-44-T3-L	Lugol	APAL	AP20	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3		None	None	Lugol_Lugol_T3	40
-AP20-45-T3-L	Lugol	APAL	AP20	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3		None	None	Lugol_Lugol_T3	40
-AP20-46-T4-L	Lugol	APAL	AP20	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4		None	None	Lugol_Lugol_T4	68
-AP20-47-T4-L	Lugol	APAL	AP20	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4		None	None	Lugol_Lugol_T4	68
-AP20-48-T4-L	Lugol	APAL	AP20	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4		None	None	Lugol_Lugol_T4	68
-AP20-49-T4-L	Lugol	APAL	AP20	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4		None	None	Lugol_Lugol_T4	68
-AP20-50-T4-L	Lugol	APAL	AP20	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4		None	None	Lugol_Lugol_T4	68
+sample.id	replicate	project	Species_coral	Genotype	Timepoint	Group	Treatment	Trt_time	T0_merge	Description	species_time	species_time_wT0	trt	TR	TR2	project_trt_time	days_from_start
+AP16-1-T0-C	1	Lugol	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	Lugol_Control_T0	0
+AP16-2-T0-C	2	Lugol	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	Lugol_Control_T0	0
+AP16-3-T0-C	3	Lugol	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	Lugol_Control_T0	0
+AP16-4-T0-C	4	Lugol	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	Lugol_Control_T0	0
+AP16-5-T0-C	5	Lugol	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	Lugol_Control_T0	0
+AP16-6-T1-C	6	Lugol	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	Lugol_Control_T1	1
+AP16-7-T1-C	7	Lugol	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	Lugol_Control_T1	1
+AP16-8-T1-C	8	Lugol	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	Lugol_Control_T1	1
+AP16-9-T1-C	9	Lugol	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	Lugol_Control_T1	1
+AP16-10-T1-C	10	Lugol	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	Lugol_Control_T1	1
+AP16-11-T2-C	11	Lugol	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	Lugol_Control_T2	12
+AP16-12-T2-C	12	Lugol	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	Lugol_Control_T2	12
+AP16-13-T2-C	13	Lugol	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	Lugol_Control_T2	12
+AP16-14-T2-C	14	Lugol	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	Lugol_Control_T2	12
+AP16-15-T2-C	15	Lugol	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	Lugol_Control_T2	12
+AP16-16-T3-C	16	Lugol	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	Lugol_Control_T3	40
+AP16-17-T3-C	17	Lugol	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	Lugol_Control_T3	40
+AP16-18-T3-C	18	Lugol	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	Lugol_Control_T3	40
+AP16-19-T3-C	19	Lugol	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	Lugol_Control_T3	40
+AP16-20-T3-C	20	Lugol	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	Lugol_Control_T3	40
+AP16-21-T4-C	21	Lugol	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	mild	TR	Lugol_Control_T4	68
+AP16-22-T4-C	22	Lugol	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	TR	TR	Lugol_Control_T4	68
+AP16-23-T4-C	23	Lugol	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	TR	TR	Lugol_Control_T4	68
+AP16-24-T4-C	24	Lugol	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	TR	TR	Lugol_Control_T4	68
+AP16-25-T4-C	25	Lugol	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	TR	TR	Lugol_Control_T4	68
+AP16-26-T0-L	26	Lugol	APAL	AP16	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+AP16-27-T0-L	27	Lugol	APAL	AP16	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+AP16-28-T0-L	28	Lugol	APAL	AP16	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+AP16-29-T0-L	29	Lugol	APAL	AP16	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+AP16-30-T0-L	30	Lugol	APAL	AP16	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+AP16-31-T1-L	31	Lugol	APAL	AP16	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+AP16-32-T1-L	32	Lugol	APAL	AP16	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+AP16-33-T1-L	33	Lugol	APAL	AP16	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+AP16-34-T1-L	34	Lugol	APAL	AP16	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+AP16-35-T1-L	35	Lugol	APAL	AP16	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+AP16-36-T2-L	36	Lugol	APAL	AP16	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+AP16-37-T2-L	37	Lugol	APAL	AP16	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+AP16-38-T2-L	38	Lugol	APAL	AP16	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+AP16-39-T2-L	39	Lugol	APAL	AP16	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+AP16-40-T2-L	40	Lugol	APAL	AP16	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+AP16-41-T3-L	41	Lugol	APAL	AP16	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+AP16-42-T3-L	42	Lugol	APAL	AP16	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+AP16-43-T3-L	43	Lugol	APAL	AP16	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+AP16-44-T3-L	44	Lugol	APAL	AP16	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+AP16-45-T3-L	45	Lugol	APAL	AP16	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+AP16-46-T4-L	46	Lugol	APAL	AP16	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4	Treated	TR	TR	Lugol_Lugol_T4	68
+AP16-47-T4-L	47	Lugol	APAL	AP16	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4	Treated	TR	TR	Lugol_Lugol_T4	68
+AP16-48-T4-L	48	Lugol	APAL	AP16	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4	Treated	TR	TR	Lugol_Lugol_T4	68
+AP16-49-T4-L	49	Lugol	APAL	AP16	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4	Treated	TR	TR	Lugol_Lugol_T4	68
+AP16-50-T4-L	50	Lugol	APAL	AP16	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4	Treated	mild	TR	Lugol_Lugol_T4	68
+AP16-71-T0-C	71	KMD	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	KMD_Control_T0	0
+AP16-72-T0-C	72	KMD	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	KMD_Control_T0	0
+AP16-73-T0-C	73	KMD	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	KMD_Control_T0	0
+AP16-74-T0-C	74	KMD	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	KMD_Control_T0	0
+AP16-75-T0-C	75	KMD	APAL	AP16	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	KMD_Control_T0	0
+AP16-76-T1-C	76	KMD	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	KMD_Control_T1	1
+AP16-77-T1-C	77	KMD	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	KMD_Control_T1	1
+AP16-78-T1-C	78	KMD	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	KMD_Control_T1	1
+AP16-79-T1-C	79	KMD	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	KMD_Control_T1	1
+AP16-80-T1-C	80	KMD	APAL	AP16	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	KMD_Control_T1	1
+AP16-81-T2-C	81	KMD	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	KMD_Control_T2	12
+AP16-82-T2-C	82	KMD	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	KMD_Control_T2	12
+AP16-83-T2-C	83	KMD	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	KMD_Control_T2	12
+AP16-84-T2-C	84	KMD	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	KMD_Control_T2	12
+AP16-85-T2-C	85	KMD	APAL	AP16	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	KMD_Control_T2	12
+AP16-86-T3-C	86	KMD	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	KMD_Control_T3	40
+AP16-87-T3-C	87	KMD	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	KMD_Control_T3	40
+AP16-88-T3-C	88	KMD	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	KMD_Control_T3	40
+AP16-89-T3-C	89	KMD	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	KMD_Control_T3	40
+AP16-90-T3-C	90	KMD	APAL	AP16	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	KMD_Control_T3	40
+AP16-91-T4-C	91	KMD	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	None	None	KMD_Control_T4	68
+AP16-92-T4-C	92	KMD	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	None	None	KMD_Control_T4	68
+AP16-93-T4-C	93	KMD	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	None	None	KMD_Control_T4	68
+AP16-94-T4-C	94	KMD	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	None	None	KMD_Control_T4	68
+AP16-95-T4-C	95	KMD	APAL	AP16	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	None	None	KMD_Control_T4	68
+AP16-96-T0-K	96	KMD	APAL	AP16	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+AP16-97-T0-K	97	KMD	APAL	AP16	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+AP16-98-T0-K	98	KMD	APAL	AP16	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+AP16-99-T0-K	99	KMD	APAL	AP16	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+AP16-100-T0-K	100	KMD	APAL	AP16	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+AP16-101-T1-K	101	KMD	APAL	AP16	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+AP16-102-T1-K	102	KMD	APAL	AP16	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+AP16-103-T1-K	103	KMD	APAL	AP16	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+AP16-104-T1-K	104	KMD	APAL	AP16	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+AP16-105-T1-K	105	KMD	APAL	AP16	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+AP16-106-T2-K	106	KMD	APAL	AP16	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+AP16-107-T2-K	107	KMD	APAL	AP16	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+AP16-108-T2-K	108	KMD	APAL	AP16	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+AP16-109-T2-K	109	KMD	APAL	AP16	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+AP16-110-T2-K	110	KMD	APAL	AP16	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+AP16-111-T3-K	111	KMD	APAL	AP16	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+AP16-112-T3-K	112	KMD	APAL	AP16	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+AP16-113-T3-K	113	KMD	APAL	AP16	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+AP16-114-T3-K	114	KMD	APAL	AP16	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+AP16-115-T3-K	115	KMD	APAL	AP16	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+AP16-116-T4-K	116	KMD	APAL	AP16	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+AP16-117-T4-K	117	KMD	APAL	AP16	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+AP16-118-T4-K	118	KMD	APAL	AP16	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+AP16-119-T4-K	119	KMD	APAL	AP16	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+AP16-120-T4-K	120	KMD	APAL	AP16	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+AP20-1-T0-C	1	Lugol	APAL	AP20	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	Lugol_Control_T0	0
+AP20-2-T0-C	2	Lugol	APAL	AP20	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	Lugol_Control_T0	0
+AP20-3-T0-C	3	Lugol	APAL	AP20	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	Lugol_Control_T0	0
+AP20-4-T0-C	4	Lugol	APAL	AP20	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	Lugol_Control_T0	0
+AP20-5-T0-C	5	Lugol	APAL	AP20	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	Lugol_Control_T0	0
+AP20-6-T1-C	6	Lugol	APAL	AP20	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	Lugol_Control_T1	1
+AP20-7-T1-C	7	Lugol	APAL	AP20	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	Lugol_Control_T1	1
+AP20-8-T1-C	8	Lugol	APAL	AP20	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	Lugol_Control_T1	1
+AP20-9-T1-C	9	Lugol	APAL	AP20	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	Lugol_Control_T1	1
+AP20-10-T1-C	10	Lugol	APAL	AP20	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	Lugol_Control_T1	1
+AP20-11-T2-C	11	Lugol	APAL	AP20	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	Lugol_Control_T2	12
+AP20-12-T2-C	12	Lugol	APAL	AP20	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	Lugol_Control_T2	12
+AP20-13-T2-C	13	Lugol	APAL	AP20	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	Lugol_Control_T2	12
+AP20-14-T2-C	14	Lugol	APAL	AP20	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	Lugol_Control_T2	12
+AP20-15-T2-C	15	Lugol	APAL	AP20	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	Lugol_Control_T2	12
+AP20-16-T3-C	16	Lugol	APAL	AP20	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	Lugol_Control_T3	40
+AP20-17-T3-C	17	Lugol	APAL	AP20	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	Lugol_Control_T3	40
+AP20-18-T3-C	18	Lugol	APAL	AP20	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	Lugol_Control_T3	40
+AP20-19-T3-C	19	Lugol	APAL	AP20	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	Lugol_Control_T3	40
+AP20-20-T3-C	20	Lugol	APAL	AP20	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	Lugol_Control_T3	40
+AP20-21-T4-C	21	Lugol	APAL	AP20	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	mild	TR	Lugol_Control_T4	68
+AP20-22-T4-C	22	Lugol	APAL	AP20	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	None	None	Lugol_Control_T4	68
+AP20-23-T4-C	23	Lugol	APAL	AP20	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	None	None	Lugol_Control_T4	68
+AP20-24-T4-C	24	Lugol	APAL	AP20	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	mild	TR	Lugol_Control_T4	68
+AP20-25-T4-C	25	Lugol	APAL	AP20	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	None	None	Lugol_Control_T4	68
+AP20-26-T0-L	26	Lugol	APAL	AP20	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+AP20-27-T0-L	27	Lugol	APAL	AP20	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+AP20-28-T0-L	28	Lugol	APAL	AP20	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+AP20-29-T0-L	29	Lugol	APAL	AP20	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+AP20-30-T0-L	30	Lugol	APAL	AP20	T0	APAL Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	APAL_T0	APAL_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+AP20-31-T1-L	31	Lugol	APAL	AP20	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+AP20-32-T1-L	32	Lugol	APAL	AP20	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+AP20-33-T1-L	33	Lugol	APAL	AP20	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+AP20-34-T1-L	34	Lugol	APAL	AP20	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+AP20-35-T1-L	35	Lugol	APAL	AP20	T1	APAL Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	APAL_Lugol_T1	APAL_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+AP20-36-T2-L	36	Lugol	APAL	AP20	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+AP20-37-T2-L	37	Lugol	APAL	AP20	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+AP20-38-T2-L	38	Lugol	APAL	AP20	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+AP20-39-T2-L	39	Lugol	APAL	AP20	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+AP20-40-T2-L	40	Lugol	APAL	AP20	T2	APAL Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	APAL_Lugol_T2	APAL_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+AP20-41-T3-L	41	Lugol	APAL	AP20	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+AP20-42-T3-L	42	Lugol	APAL	AP20	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+AP20-43-T3-L	43	Lugol	APAL	AP20	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+AP20-44-T3-L	44	Lugol	APAL	AP20	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+AP20-45-T3-L	45	Lugol	APAL	AP20	T3	APAL Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	APAL_Lugol_T3	APAL_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+AP20-46-T4-L	46	Lugol	APAL	AP20	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4	Treated	None	None	Lugol_Lugol_T4	68
+AP20-47-T4-L	47	Lugol	APAL	AP20	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4	Treated	None	None	Lugol_Lugol_T4	68
+AP20-48-T4-L	48	Lugol	APAL	AP20	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4	Treated	None	None	Lugol_Lugol_T4	68
+AP20-49-T4-L	49	Lugol	APAL	AP20	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4	Treated	None	None	Lugol_Lugol_T4	68
+AP20-50-T4-L	50	Lugol	APAL	AP20	NA	APAL Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	APAL_Lugol_T4	APAL_Lugol_T4	Treated	None	None	Lugol_Lugol_T4	68
+AP5-71-T0-C	71	KMD	APAL	AP5	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	KMD_Control_T0	0
+AP5-72-T0-C	72	KMD	APAL	AP5	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	KMD_Control_T0	0
+AP5-73-T0-C	73	KMD	APAL	AP5	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	KMD_Control_T0	0
+AP5-74-T0-C	74	KMD	APAL	AP5	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	KMD_Control_T0	0
+AP5-75-T0-C	75	KMD	APAL	AP5	T0	APAL Control	Control	Control_T0	T0	Pre-Treatment	APAL_T0	APAL_Control_T0	Control	None	None	KMD_Control_T0	0
+AP5-76-T1-C	76	KMD	APAL	AP5	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	KMD_Control_T1	1
+AP5-77-T1-C	77	KMD	APAL	AP5	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	KMD_Control_T1	1
+AP5-78-T1-C	78	KMD	APAL	AP5	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	KMD_Control_T1	1
+AP5-79-T1-C	79	KMD	APAL	AP5	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	KMD_Control_T1	1
+AP5-80-T1-C	80	KMD	APAL	AP5	T1	APAL Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	APAL_Control_T1	APAL_Control_T1	Control	None	None	KMD_Control_T1	1
+AP5-81-T2-C	81	KMD	APAL	AP5	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	KMD_Control_T2	12
+AP5-82-T2-C	82	KMD	APAL	AP5	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	KMD_Control_T2	12
+AP5-83-T2-C	83	KMD	APAL	AP5	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	KMD_Control_T2	12
+AP5-84-T2-C	84	KMD	APAL	AP5	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	KMD_Control_T2	12
+AP5-85-T2-C	85	KMD	APAL	AP5	T2	APAL Control	Control	Control_T2	Control_T2	After 6 treatments 	APAL_Control_T2	APAL_Control_T2	Control	None	None	KMD_Control_T2	12
+AP5-86-T3-C	86	KMD	APAL	AP5	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	KMD_Control_T3	40
+AP5-87-T3-C	87	KMD	APAL	AP5	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	KMD_Control_T3	40
+AP5-88-T3-C	88	KMD	APAL	AP5	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	KMD_Control_T3	40
+AP5-89-T3-C	89	KMD	APAL	AP5	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	KMD_Control_T3	40
+AP5-90-T3-C	90	KMD	APAL	AP5	T3	APAL Control	Control	Control_T3	Control_T3	1 Month Washout	APAL_Control_T3	APAL_Control_T3	Control	None	None	KMD_Control_T3	40
+AP5-91-T4-C	91	KMD	APAL	AP5	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	None	None	KMD_Control_T4	68
+AP5-92-T4-C	92	KMD	APAL	AP5	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	None	None	KMD_Control_T4	68
+AP5-93-T4-C	93	KMD	APAL	AP5	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	None	None	KMD_Control_T4	68
+AP5-94-T4-C	94	KMD	APAL	AP5	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	None	None	KMD_Control_T4	68
+AP5-95-T4-C	95	KMD	APAL	AP5	T4	APAL Control	Control	Control_T4	Control_T4	2 Months Washout	APAL_Control_T4	APAL_Control_T4	Control	None	None	KMD_Control_T4	68
+AP5-96-T0-K	96	KMD	APAL	AP5	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+AP5-97-T0-K	97	KMD	APAL	AP5	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+AP5-98-T0-K	98	KMD	APAL	AP5	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+AP5-99-T0-K	99	KMD	APAL	AP5	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+AP5-100-T0-K	100	KMD	APAL	AP5	T0	APAL KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	APAL_T0	APAL_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+AP5-101-T1-K	101	KMD	APAL	AP5	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+AP5-102-T1-K	102	KMD	APAL	AP5	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+AP5-103-T1-K	103	KMD	APAL	AP5	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+AP5-104-T1-K	104	KMD	APAL	AP5	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+AP5-105-T1-K	105	KMD	APAL	AP5	T1	APAL KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	APAL_KoralMD_T1	APAL_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+AP5-106-T2-K	106	KMD	APAL	AP5	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+AP5-107-T2-K	107	KMD	APAL	AP5	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+AP5-108-T2-K	108	KMD	APAL	AP5	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+AP5-109-T2-K	109	KMD	APAL	AP5	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+AP5-110-T2-K	110	KMD	APAL	AP5	T2	APAL KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	APAL_KoralMD_T2	APAL_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+AP5-111-T3-K	111	KMD	APAL	AP5	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+AP5-112-T3-K	112	KMD	APAL	AP5	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+AP5-113-T3-K	113	KMD	APAL	AP5	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+AP5-114-T3-K	114	KMD	APAL	AP5	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+AP5-115-T3-K	115	KMD	APAL	AP5	T3	APAL KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	APAL_KoralMD_T3	APAL_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+AP5-116-T4-K	116	KMD	APAL	AP5	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+AP5-117-T4-K	117	KMD	APAL	AP5	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+AP5-118-T4-K	118	KMD	APAL	AP5	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+AP5-119-T4-K	119	KMD	APAL	AP5	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+AP5-120-T4-K	120	KMD	APAL	AP5	T4	APAL KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	APAL_KoralMD_T4	APAL_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+OF3-1-T0-C	1	Lugol	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	Lugol_Control_T0	0
+OF3-2-T0-C	2	Lugol	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	Lugol_Control_T0	0
+OF3-3-T0-C	3	Lugol	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	Lugol_Control_T0	0
+OF3-4-T0-C	4	Lugol	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	Lugol_Control_T0	0
+OF3-5-T0-C	5	Lugol	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	Lugol_Control_T0	0
+OF3-6-T1-C	6	Lugol	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	Lugol_Control_T1	1
+OF3-7-T1-C	7	Lugol	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	Lugol_Control_T1	1
+OF3-8-T1-C	8	Lugol	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	Lugol_Control_T1	1
+OF3-9-T1-C	9	Lugol	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	Lugol_Control_T1	1
+OF3-10-T1-C	10	Lugol	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	Lugol_Control_T1	1
+OF3-11-T2-C	11	Lugol	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	Lugol_Control_T2	12
+OF3-12-T2-C	12	Lugol	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	Lugol_Control_T2	12
+OF3-13-T2-C	13	Lugol	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	Lugol_Control_T2	12
+OF3-14-T2-C	14	Lugol	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	Lugol_Control_T2	12
+OF3-15-T2-C	15	Lugol	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	Lugol_Control_T2	12
+OF3-16-T3-C	16	Lugol	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	Lugol_Control_T3	40
+OF3-17-T3-C	17	Lugol	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	Lugol_Control_T3	40
+OF3-18-T3-C	18	Lugol	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	Lugol_Control_T3	40
+OF3-19-T3-C	19	Lugol	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	Lugol_Control_T3	40
+OF3-20-T3-C	20	Lugol	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	Lugol_Control_T3	40
+OF3-21-T4-C	21	Lugol	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	Lugol_Control_T4	68
+OF3-22-T4-C	22	Lugol	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	Lugol_Control_T4	68
+OF3-23-T4-C	23	Lugol	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	Lugol_Control_T4	68
+OF3-24-T4-C	24	Lugol	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	Lugol_Control_T4	68
+OF3-25-T4-C	25	Lugol	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	Lugol_Control_T4	68
+OF3-26-T0-L	26	Lugol	OFAV	OF3	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+OF3-27-T0-L	27	Lugol	OFAV	OF3	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+OF3-28-T0-L	28	Lugol	OFAV	OF3	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+OF3-29-T0-L	29	Lugol	OFAV	OF3	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+OF3-30-T0-L	30	Lugol	OFAV	OF3	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+OF3-31-T1-L	31	Lugol	OFAV	OF3	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+OF3-32-T1-L	32	Lugol	OFAV	OF3	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+OF3-33-T1-L	33	Lugol	OFAV	OF3	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+OF3-34-T1-L	34	Lugol	OFAV	OF3	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+OF3-35-T1-L	35	Lugol	OFAV	OF3	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+OF3-36-T2-L	36	Lugol	OFAV	OF3	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+OF3-37-T2-L	37	Lugol	OFAV	OF3	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+OF3-38-T2-L	38	Lugol	OFAV	OF3	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+OF3-39-T2-L	39	Lugol	OFAV	OF3	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+OF3-40-T2-L	40	Lugol	OFAV	OF3	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+OF3-41-T3-L	41	Lugol	OFAV	OF3	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+OF3-42-T3-L	42	Lugol	OFAV	OF3	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+OF3-43-T3-L	43	Lugol	OFAV	OF3	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+OF3-44-T3-L	44	Lugol	OFAV	OF3	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+OF3-45-T3-L	45	Lugol	OFAV	OF3	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+OF3-46-T4-L	46	Lugol	OFAV	OF3	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4	Treated	None	None	Lugol_Lugol_T4	68
+OF3-47-T4-L	47	Lugol	OFAV	OF3	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4	Treated	None	None	Lugol_Lugol_T4	68
+OF3-48-T4-L	48	Lugol	OFAV	OF3	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4	Treated	None	None	Lugol_Lugol_T4	68
+OF3-49-T4-L	49	Lugol	OFAV	OF3	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4	Treated	None	None	Lugol_Lugol_T4	68
+OF3-50-T4-L	50	Lugol	OFAV	OF3	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4	Treated	None	None	Lugol_Lugol_T4	68
+OF3-71-T0-C	71	KMD	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	KMD_Control_T0	0
+OF3-72-T0-C	72	KMD	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	KMD_Control_T0	0
+OF3-73-T0-C	73	KMD	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	KMD_Control_T0	0
+OF3-74-T0-C	74	KMD	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	KMD_Control_T0	0
+OF3-75-T0-C	75	KMD	OFAV	OF3	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	KMD_Control_T0	0
+OF3-76-T1-C	76	KMD	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	KMD_Control_T1	1
+OF3-77-T1-C	77	KMD	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	KMD_Control_T1	1
+OF3-78-T1-C	78	KMD	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	KMD_Control_T1	1
+OF3-79-T1-C	79	KMD	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	KMD_Control_T1	1
+OF3-80-T1-C	80	KMD	OFAV	OF3	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	KMD_Control_T1	1
+OF3-81-T2-C	81	KMD	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	KMD_Control_T2	12
+OF3-82-T2-C	82	KMD	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	KMD_Control_T2	12
+OF3-83-T2-C	83	KMD	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	KMD_Control_T2	12
+OF3-84-T2-C	84	KMD	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	KMD_Control_T2	12
+OF3-85-T2-C	85	KMD	OFAV	OF3	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	KMD_Control_T2	12
+OF3-86-T3-C	86	KMD	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	KMD_Control_T3	40
+OF3-87-T3-C	87	KMD	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	KMD_Control_T3	40
+OF3-88-T3-C	88	KMD	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	KMD_Control_T3	40
+OF3-89-T3-C	89	KMD	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	KMD_Control_T3	40
+OF3-90-T3-C	90	KMD	OFAV	OF3	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	KMD_Control_T3	40
+OF3-91-T4-C	91	KMD	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	KMD_Control_T4	68
+OF3-92-T4-C	92	KMD	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	KMD_Control_T4	68
+OF3-93-T4-C	93	KMD	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	KMD_Control_T4	68
+OF3-94-T4-C	94	KMD	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	KMD_Control_T4	68
+OF3-95-T4-C	95	KMD	OFAV	OF3	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	KMD_Control_T4	68
+OF3-96-T0-K	96	KMD	OFAV	OF3	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+OF3-97-T0-K	97	KMD	OFAV	OF3	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+OF3-98-T0-K	98	KMD	OFAV	OF3	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+OF3-99-T0-K	99	KMD	OFAV	OF3	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+OF3-100-T0-K	100	KMD	OFAV	OF3	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+OF3-101-T1-K	101	KMD	OFAV	OF3	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+OF3-102-T1-K	102	KMD	OFAV	OF3	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+OF3-103-T1-K	103	KMD	OFAV	OF3	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+OF3-104-T1-K	104	KMD	OFAV	OF3	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+OF3-105-T1-K	105	KMD	OFAV	OF3	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+OF3-106-T2-K	106	KMD	OFAV	OF3	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+OF3-107-T2-K	107	KMD	OFAV	OF3	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+OF3-108-T2-K	108	KMD	OFAV	OF3	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+OF3-109-T2-K	109	KMD	OFAV	OF3	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+OF3-110-T2-K	110	KMD	OFAV	OF3	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+OF3-111-T3-K	111	KMD	OFAV	OF3	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+OF3-112-T3-K	112	KMD	OFAV	OF3	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+OF3-113-T3-K	113	KMD	OFAV	OF3	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+OF3-114-T3-K	114	KMD	OFAV	OF3	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+OF3-115-T3-K	115	KMD	OFAV	OF3	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+OF3-116-T4-K	116	KMD	OFAV	OF3	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+OF3-117-T4-K	117	KMD	OFAV	OF3	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+OF3-118-T4-K	118	KMD	OFAV	OF3	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+OF3-119-T4-K	119	KMD	OFAV	OF3	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+OF3-120-T4-K	120	KMD	OFAV	OF3	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+OF61-1-T0-C	1	Lugol	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	Lugol_Control_T0	0
+OF61-2-T0-C	2	Lugol	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	Lugol_Control_T0	0
+OF61-3-T0-C	3	Lugol	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	Lugol_Control_T0	0
+OF61-4-T0-C	4	Lugol	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	Lugol_Control_T0	0
+OF61-5-T0-C	5	Lugol	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	Lugol_Control_T0	0
+OF61-6-T1-C	6	Lugol	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	Lugol_Control_T1	1
+OF61-7-T1-C	7	Lugol	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	Lugol_Control_T1	1
+OF61-8-T1-C	8	Lugol	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	Lugol_Control_T1	1
+OF61-9-T1-C	9	Lugol	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	Lugol_Control_T1	1
+OF61-10-T1-C	10	Lugol	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	Lugol_Control_T1	1
+OF61-11-T2-C	11	Lugol	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	Lugol_Control_T2	12
+OF61-12-T2-C	12	Lugol	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	Lugol_Control_T2	12
+OF61-13-T2-C	13	Lugol	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	Lugol_Control_T2	12
+OF61-14-T2-C	14	Lugol	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	Lugol_Control_T2	12
+OF61-15-T2-C	15	Lugol	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	Lugol_Control_T2	12
+OF61-16-T3-C	16	Lugol	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	Lugol_Control_T3	40
+OF61-17-T3-C	17	Lugol	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	Lugol_Control_T3	40
+OF61-18-T3-C	18	Lugol	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	Lugol_Control_T3	40
+OF61-19-T3-C	19	Lugol	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	Lugol_Control_T3	40
+OF61-20-T3-C	20	Lugol	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	Lugol_Control_T3	40
+OF61-21-T4-C	21	Lugol	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	Lugol_Control_T4	68
+OF61-22-T4-C	22	Lugol	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	Lugol_Control_T4	68
+OF61-23-T4-C	23	Lugol	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	Lugol_Control_T4	68
+OF61-24-T4-C	24	Lugol	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	Lugol_Control_T4	68
+OF61-25-T4-C	25	Lugol	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	Lugol_Control_T4	68
+OF61-26-T0-L	26	Lugol	OFAV	OF61	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+OF61-27-T0-L	27	Lugol	OFAV	OF61	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+OF61-28-T0-L	28	Lugol	OFAV	OF61	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+OF61-29-T0-L	29	Lugol	OFAV	OF61	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+OF61-30-T0-L	30	Lugol	OFAV	OF61	T0	OFAV Lugol	Lugol	Lugol_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Lugol_T0	Treated	None	None	Lugol_Lugol_T0	0
+OF61-31-T1-L	31	Lugol	OFAV	OF61	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+OF61-32-T1-L	32	Lugol	OFAV	OF61	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+OF61-33-T1-L	33	Lugol	OFAV	OF61	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+OF61-34-T1-L	34	Lugol	OFAV	OF61	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+OF61-35-T1-L	35	Lugol	OFAV	OF61	T1	OFAV Lugol	Lugol	Lugol_T1	Lugol_T1	1 Day Post-Treatment	OFAV_Lugol_T1	OFAV_Lugol_T1	Treated	None	None	Lugol_Lugol_T1	1
+OF61-36-T2-L	36	Lugol	OFAV	OF61	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+OF61-37-T2-L	37	Lugol	OFAV	OF61	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+OF61-38-T2-L	38	Lugol	OFAV	OF61	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+OF61-39-T2-L	39	Lugol	OFAV	OF61	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+OF61-40-T2-L	40	Lugol	OFAV	OF61	T2	OFAV Lugol	Lugol	Lugol_T2	Lugol_T2	After 6 treatments 	OFAV_Lugol_T2	OFAV_Lugol_T2	Treated	None	None	Lugol_Lugol_T2	12
+OF61-41-T3-L	41	Lugol	OFAV	OF61	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+OF61-42-T3-L	42	Lugol	OFAV	OF61	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+OF61-43-T3-L	43	Lugol	OFAV	OF61	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+OF61-44-T3-L	44	Lugol	OFAV	OF61	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+OF61-45-T3-L	45	Lugol	OFAV	OF61	T3	OFAV Lugol	Lugol	Lugol_T3	Lugol_T3	1 Month Washout	OFAV_Lugol_T3	OFAV_Lugol_T3	Treated	None	None	Lugol_Lugol_T3	40
+OF61-46-T4-L	46	Lugol	OFAV	OF61	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4	Treated	None	None	Lugol_Lugol_T4	68
+OF61-47-T4-L	47	Lugol	OFAV	OF61	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4	Treated	None	None	Lugol_Lugol_T4	68
+OF61-48-T4-L	48	Lugol	OFAV	OF61	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4	Treated	None	None	Lugol_Lugol_T4	68
+OF61-49-T4-L	49	Lugol	OFAV	OF61	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4	Treated	None	None	Lugol_Lugol_T4	68
+OF61-50-T4-L	50	Lugol	OFAV	OF61	T4	OFAV Lugol	Lugol	Lugol_T4	Lugol_T4	2 Months Washout	OFAV_Lugol_T4	OFAV_Lugol_T4	Treated	None	None	Lugol_Lugol_T4	68
+OF61-71-T0-C	71	KMD	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	KMD_Control_T0	0
+OF61-72-T0-C	72	KMD	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	KMD_Control_T0	0
+OF61-73-T0-C	73	KMD	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	KMD_Control_T0	0
+OF61-74-T0-C	74	KMD	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	KMD_Control_T0	0
+OF61-75-T0-C	75	KMD	OFAV	OF61	T0	OFAV Control	Control	Control_T0	T0	Pre-Treatment	OFAV_T0	OFAV_Control_T0	Control	None	None	KMD_Control_T0	0
+OF61-76-T1-C	76	KMD	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	KMD_Control_T1	1
+OF61-77-T1-C	77	KMD	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	KMD_Control_T1	1
+OF61-78-T1-C	78	KMD	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	KMD_Control_T1	1
+OF61-79-T1-C	79	KMD	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	KMD_Control_T1	1
+OF61-80-T1-C	80	KMD	OFAV	OF61	T1	OFAV Control	Control	Control_T1	Control_T1	1 Day Post-Treatment	OFAV_Control_T1	OFAV_Control_T1	Control	None	None	KMD_Control_T1	1
+OF61-81-T2-C	81	KMD	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	KMD_Control_T2	12
+OF61-82-T2-C	82	KMD	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	KMD_Control_T2	12
+OF61-83-T2-C	83	KMD	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	KMD_Control_T2	12
+OF61-84-T2-C	84	KMD	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	KMD_Control_T2	12
+OF61-85-T2-C	85	KMD	OFAV	OF61	T2	OFAV Control	Control	Control_T2	Control_T2	After 6 treatments 	OFAV_Control_T2	OFAV_Control_T2	Control	None	None	KMD_Control_T2	12
+OF61-86-T3-C	86	KMD	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	KMD_Control_T3	40
+OF61-87-T3-C	87	KMD	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	KMD_Control_T3	40
+OF61-88-T3-C	88	KMD	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	KMD_Control_T3	40
+OF61-89-T3-C	89	KMD	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	KMD_Control_T3	40
+OF61-90-T3-C	90	KMD	OFAV	OF61	T3	OFAV Control	Control	Control_T3	Control_T3	1 Month Washout	OFAV_Control_T3	OFAV_Control_T3	Control	None	None	KMD_Control_T3	40
+OF61-91-T4-C	91	KMD	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	KMD_Control_T4	68
+OF61-92-T4-C	92	KMD	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	KMD_Control_T4	68
+OF61-93-T4-C	93	KMD	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	KMD_Control_T4	68
+OF61-94-T4-C	94	KMD	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	KMD_Control_T4	68
+OF61-95-T4-C	95	KMD	OFAV	OF61	T4	OFAV Control	Control	Control_T4	Control_T4	2 Months Washout	OFAV_Control_T4	OFAV_Control_T4	Control	None	None	KMD_Control_T4	68
+OF61-96-T0-K	96	KMD	OFAV	OF61	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+OF61-97-T0-K	97	KMD	OFAV	OF61	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+OF61-98-T0-K	98	KMD	OFAV	OF61	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+OF61-99-T0-K	99	KMD	OFAV	OF61	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+OF61-100-T0-K	100	KMD	OFAV	OF61	T0	OFAV KoralMD	KoralMD	KoralMD_T0	T0	Pre-Treatment	OFAV_T0	OFAV_KoralMD_T0	Treated	None	None	KMD_KoralMD_T0	0
+OF61-101-T1-K	101	KMD	OFAV	OF61	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+OF61-102-T1-K	102	KMD	OFAV	OF61	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+OF61-103-T1-K	103	KMD	OFAV	OF61	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+OF61-104-T1-K	104	KMD	OFAV	OF61	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+OF61-105-T1-K	105	KMD	OFAV	OF61	T1	OFAV KoralMD	KoralMD	KoralMD_T1	KoralMD_T1	1 Day Post-Treatment	OFAV_KoralMD_T1	OFAV_KoralMD_T1	Treated	None	None	KMD_KoralMD_T1	1
+OF61-106-T2-K	106	KMD	OFAV	OF61	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+OF61-107-T2-K	107	KMD	OFAV	OF61	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+OF61-108-T2-K	108	KMD	OFAV	OF61	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+OF61-109-T2-K	109	KMD	OFAV	OF61	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+OF61-110-T2-K	110	KMD	OFAV	OF61	T2	OFAV KoralMD	KoralMD	KoralMD_T2	KoralMD_T2	After 6 treatments 	OFAV_KoralMD_T2	OFAV_KoralMD_T2	Treated	None	None	KMD_KoralMD_T2	12
+OF61-111-T3-K	111	KMD	OFAV	OF61	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+OF61-112-T3-K	112	KMD	OFAV	OF61	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+OF61-113-T3-K	113	KMD	OFAV	OF61	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+OF61-114-T3-K	114	KMD	OFAV	OF61	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+OF61-115-T3-K	115	KMD	OFAV	OF61	T3	OFAV KoralMD	KoralMD	KoralMD_T3	KoralMD_T3	1 Month Washout	OFAV_KoralMD_T3	OFAV_KoralMD_T3	Treated	None	None	KMD_KoralMD_T3	40
+OF61-116-T4-K	116	KMD	OFAV	OF61	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+OF61-117-T4-K	117	KMD	OFAV	OF61	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+OF61-118-T4-K	118	KMD	OFAV	OF61	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+OF61-119-T4-K	119	KMD	OFAV	OF61	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
+OF61-120-T4-K	120	KMD	OFAV	OF61	T4	OFAV KoralMD	KoralMD	KoralMD_T4	KoralMD_T4	2 Months Washout	OFAV_KoralMD_T4	OFAV_KoralMD_T4	Treated	None	None	KMD_KoralMD_T4	68
