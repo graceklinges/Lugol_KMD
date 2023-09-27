@@ -4,6 +4,8 @@ library("usedist")
 library("ggplot2")
 library("microbiome")
 library(multcompView)
+library(colorblindcheck)
+
 
 rm(list=ls())
 setwd("~/Lugol_KMD")
@@ -47,16 +49,17 @@ mapfile = "LuKMD_metadata.txt"
 map = import_qiime_sample_data(mapfile)
 sample_data(clr) <- map
 
-#clr <- subset_samples(clr, Species_coral == "OFAV")
-clr <- subset_samples(clr, project == "KMD")
-#clr <- subset_samples(clr, Timepoint != "T4")
+clr <- subset_samples(clr, Species_coral == "APAL")
+clr <- subset_samples(clr, project == "Lugol")
+clr = subset_samples(clr, species_time != "APAL_Control_T4")
+clr = subset_samples(clr, species_time != "APAL_Lugol_T4")
 #clr <- subset_samples(clr, Timepoint == "T4" | Timepoint == "T0")
 
 clr <- subset_samples(clr, sample.id != "OF3-41-T3-L")
 
 nsamples(clr)
 
-clr@sam_data$T0_merge<- factor(clr@sam_data$T0_merge, levels = c("T0", "Control_T1", "Control_T2", "Control_T3", "Control_T4", "Lugol_T1", "Lugol_T2", "Lugol_T3", "Lugol_T4")) 
+#clr@sam_data$T0_merge<- factor(clr@sam_data$T0_merge, levels = c("T0", "Control_T1", "Control_T2", "Control_T3", "Control_T4", "Lugol_T1", "Lugol_T2", "Lugol_T3", "Lugol_T4")) 
 clr@sam_data$Description<- factor(clr@sam_data$Description, levels = c("Pre-Treatment","1 Day Post-Treatment","After 6 treatments ", "1 Month Washout", "2 Months Washout"))
 
 
@@ -70,7 +73,10 @@ clr_euc <- phyloseq::distance(clr, method = "euclidean")
 # Make a data frame from the sample_data
 sampledf <- data.frame(sample_data(clr))
 # Adonis 
-adonis(dist ~ variable, data = metadata) #significantly dif by project
+#adonis(dist ~ variable, data = metadata) 
+adonis(clr_euc ~ Treatment, data = sampledf) #interaction not sig, only timepoint sig
+adonis(clr_euc ~ Species_coral, data = sampledf) 
+#significantly dif by project
 adonis(clr_euc ~ Timepoint*Treatment, data = sampledf) #interaction not sig, only timepoint sig
 
 species_time_KMD <- pairwise.adonis.dm(clr_euc, sample_data(clr)$species_time, p.adjust.m = "fdr")
@@ -104,13 +110,14 @@ clr1 <- ord_clr$CA$eig[1] / sum(ord_clr$CA$eig)
 clr2 <- ord_clr$CA$eig[2] / sum(ord_clr$CA$eig)
 PCA <- phyloseq::plot_ordination(clr, ord_clr, type="samples", color="Description", shape="Treatment") + 
   geom_point(size = 2) +
-  coord_fixed(((clr2 / clr1))*2) +
-  stat_ellipse(aes(group = Timepoint, linetype = project)) +
+  #coord_fixed(((clr2 / clr1))*2) +
+  coord_fixed(ratio = 1) +
+  stat_ellipse(aes(group = trt, linetype = trt)) +
   labs(color = "Timepoint") +
   labs(shape = "Treatment") +
   scale_color_manual(values = c("#ffa500", "#00ff7f", "#00bfff", "#0000ff", "#ff1493", "#000000", "#FF0000"))
 PCA
-ggsave(filename="KMD_PCA-OFAV.png", plot=PCA, width = 6, height = 6, device="png", dpi=700)
+ggsave(filename="beta/KMD_PCA-APAL.svg", plot=PCA, width = 5, height = 5, device="svg", dpi=700)
 
 clr1 <- ord_clr$CA$eig[1] / sum(ord_clr$CA$eig)
 clr2 <- ord_clr$CA$eig[2] / sum(ord_clr$CA$eig)
@@ -165,23 +172,25 @@ write.table(dispersion_stats, file = "beta/dispersion_stats_Lugol_OFAV.txt", sep
 dispersion_table <- read.table("beta/dispersion_lugol_OFAV_matrix.txt", header = TRUE, sep = "\t", row.names = 1)
 myletters<-multcompLetters(dispersion_table,compare="<=",threshold=0.05,Letters=letters)
 
-myCols <- c("#EF476F", "#06D6A0", "#FFC107", "#843BFF", "#3BFF51")
+myCols <- c("#d7191c", "#FFC107","#0B584B", "#0073D8", "#43DECC")
+palette_check(myCols, plot = TRUE)
 
 dispersion_plot <- ggplot(dispd, aes(x=Timepoint, y=distance)) +
   facet_grid(Species_coral~Treatment)+
-  geom_boxplot(outlier.shape = NA, color = "gray35") +
-  geom_point(aes(color = Description), 
-             position = position_jitter(width = .25, height = 0)) +
+  geom_boxplot(outlier.shape = NA, aes(color = Description)) +
+  #geom_point(aes(color = Description), 
+             #position = position_jitter(width = .25, height = 0)) +
   ylab("Distance-to-centroid") +
   theme_bw() +
   #theme(axis.title.x = element_blank(),
     #    legend.position = "none") +
   labs(color = "Description") +
   scale_colour_manual(values = myCols) +
-  stat_summary(geom = 'text', label = c("a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a"), fun.y = max, vjust = -1, size = 3.5) +
+  #stat_summary(geom = 'text', label = c("a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a", "a"), fun.y = max, vjust = -1, size = 3.5) + #KMD
+  stat_summary(geom = 'text', label = c("a", "a", "a", "bc", "a", "ab", "a", "abc", "a", "a", "bc", "abc", "a", "ab", "a", "bc", "a", "c"), fun.y = max, vjust = -1, size = 3.5) + #Lugol
   #ggtitle("Dispersion Over Time: OFAV") +
   #scale_y_continuous(expand = expand_scale(mult = c(.1))) +
   ylim(0,300)
 dispersion_plot
-ggsave(filename="beta/disp_KMD.svg", plot=dispersion_plot, height = 4.5, width = 8, device="svg", dpi=500)
+ggsave(filename="beta/disp_Lugol.svg", plot=dispersion_plot, height = 4.5, width = 8, device="svg", dpi=500)
 
