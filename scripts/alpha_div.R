@@ -6,12 +6,13 @@ library(tidyverse)
 library(plyr)
 library(dplyr)
 library(ggplot2)
+library(colorblindcheck)
 
 setwd("~/Lugol_KMD")
 rm(list=ls())
 
-load(file = "ps_unpruned.RData") #renamed, unpruned ps object
-
+load(file = "ps_rare.RData") #renamed, unpruned ps object
+ps <- ps_rarefied
 mapfile = "LuKMD_metadata.txt"
 map = import_qiime_sample_data(mapfile)
 sample_data(ps) <- map
@@ -23,6 +24,8 @@ ps = subset_samples(ps, species_time != "APAL_Lugol_T4")#for lugol only, removin
 nsamples(ps)
 #functions
 asinTransform <- function(p) { asin(sqrt(p)) }
+
+ps@sam_data$Description<- factor(ps@sam_data$Description, levels = c("Pre-Treatment","1 Day Post-Treatment","After 6 treatments ", "1 Month Washout", "2 Months Washout"))
 
 #mymat
 library(multcompView)
@@ -173,13 +176,15 @@ write.table(mymat, file = "alpha/apal_shan_stats_KMD.txt", sep = "\t")
 apal_letters<-multcompLetters(mymat,compare="<=",threshold=0.05,Letters=letters)
 apal_letters$Letters
 
-myCols <- c("#EF476F", "#06D6A0", "#FFC107", "#843BFF", "#3BFF51")
-#goes with stats from KW_simpsons_No_level_weeks_noT0, use alpha_div_sig_letters to get letters
+myCols <- c("#d7191c", "#FFC107","#0B584B", "#0073D8", "#43DECC")
+palette_check(myCols, plot = TRUE)
+#min distance >10
+
 A <- ggplot(alphadiv, aes(x=Timepoint, y=shannon)) +
   facet_grid(Species_coral~Treatment)+
-  geom_boxplot(outlier.shape = NA, color = "gray35") +
-  geom_point(aes(color = Description), 
-             position = position_jitter(width = .25, height = 0)) +
+  geom_boxplot(outlier.shape = NA, aes(color = Description)) +
+  #geom_point(aes(color = Description), 
+             #position = position_jitter(width = .25, height = 0)) +
   ylab("Shannon Diversity Index") +
   theme_bw() +
   #theme(aspect.ratio = 1.8) +
@@ -188,20 +193,20 @@ A <- ggplot(alphadiv, aes(x=Timepoint, y=shannon)) +
     legend.title = element_text(color = "black", size = 12),
     legend.text = element_text(color = "black", size = 12)) +
   scale_colour_manual(values = myCols) +
-  stat_summary(geom = 'text', label = c("a","a", "a", "a", "a", "a", "a", "a", "a", "a", "a" , "a", "a", "a", "a", "a", "a", "a", "a", "a"), fun = max, vjust = -1, size = 3.5) + #stats with rick
+  #stat_summary(geom = 'text', label = c("a","a", "a", "a", "a", "a", "a", "a", "a", "a", "a" , "a", "a", "a", "a", "a", "a", "a", "a", "a"), fun = max, vjust = -1, size = 3.5) + #stats with rick
     ylim(3,8) +
   #ggtitle("Shannon Diversity by Treatment Weeks") +
 theme(plot.title = element_text(hjust = 0.5))
 A
 #merged with lugol plot in Illustrator
-ggsave(filename="alpha/alphadiv_trtweeks_KMD.svg", plot=A, height = 4, width = 8, device="svg", dpi=500)
+ggsave(filename="alpha/alphadiv_trtweeks_KMD2.svg", plot=A, height = 4, width = 8, device="svg", dpi=500)
 
-#load 
+
 A <- ggplot(alphadiv, aes(x=Timepoint, y=shannon)) +
   facet_grid(Species_coral~Treatment)+
-  geom_boxplot(outlier.shape = NA, color = "gray35") +
-  geom_point(aes(color = Description), 
-             position = position_jitter(width = .25, height = 0)) +
+  geom_boxplot(outlier.shape = NA, aes(color = Description)) +
+  #geom_point(aes(color = Description), 
+             #position = position_jitter(width = .25, height = 0)) +
   ylab("Shannon Diversity Index") +
   theme_bw() +
   #theme(aspect.ratio = 1.8) +
@@ -215,6 +220,7 @@ A <- ggplot(alphadiv, aes(x=Timepoint, y=shannon)) +
   #ggtitle("Shannon Diversity by Treatment Weeks") +
   theme(plot.title = element_text(hjust = 0.5))
 A
-ggsave(filename="alpha/alphadiv_trtweeks_Lugol.svg", plot=A, height = 4, width = 8, device="svg", dpi=500)
+ggsave(filename="alpha/alphadiv_trtweeks_Lugol2.svg", plot=A, height = 4, width = 8, device="svg", dpi=500)
 
+ggsave(filename="alpha/lugol_test.png", plot=A, height = 4, width = 8, device="png", dpi=500)
 
